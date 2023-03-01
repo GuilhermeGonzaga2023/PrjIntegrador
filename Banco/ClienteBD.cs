@@ -12,12 +12,14 @@ namespace Banco
     public class ClienteBD
     {
         public ClienteBD() { }
+
+        private static SqlConnection conexao = new SqlConnection();
+        private static SqlCommand command = new SqlCommand();
+
         public static string Cadastro(string login, string senha, string nome, string placa)
         {
             try
             {
-                SqlConnection conexao = new SqlConnection();
-                SqlCommand command = new SqlCommand();
                 command.CommandText = "";
                 command.CommandType = CommandType.StoredProcedure;
                 command.Connection = conexao;

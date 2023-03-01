@@ -13,13 +13,13 @@ namespace RegradeNegocio
 {
     public class Cliente
     {
-        public Cliente() 
-        {
-        }
         public static string Apelido { get; set; }
         public static string Senha { get; set; }
         public static string Nome { get; set; }
         public static string Placa { get; set; }
+        public Cliente() 
+        {
+        }
 
         public static string Cadastro(string apelido, string senha, string nome, string placa )
         {
