@@ -1,0 +1,37 @@
+﻿--create table Usuario(
+--idUser int identity(1,1),
+--nomeUser varchar(200) not null ,
+--cep char(8),
+--nomedaRua char(200) ,
+--numerodaRua varchar(10),
+--complementoRua varchar(20),
+--bairrodaRua varchar(50),
+--@cidadeRua varchar(50)
+--estadodaRua char(2),
+--apelido varchar(40),
+--senha char(16)
+--constraint pk_user Primary key (idUser)
+--)
+--create procedure pi_cadastroUser @nomeUser varchar(200), @cep char(8), @nomedaRua char(200), 
+--@numerodaRua varchar(10), @complementoRua varchar(20), @bairrodaRua varchar(50), @cidadeRua varchar(50), @estadodaRua char(2), @apelido varchar(40), @senha char(16) as
+--insert into(nomeUser, cep, nomedaRua, numerodaRua, complementoRua, bairrodaRua, cidadeRua,estadodaRua, apelido, senha) 
+--values(@nomeUser, @cep, @nomedaRua, @numerodaRua, @complementoRua, @bairrodaRua, @cidadeRua, @estadodaRua, @apelido, @senha)
+--/**/
+--create table Vaga(
+--idVaga int identity(1,1),
+--numeroVaga int
+--status varchar(8) default(livre)
+--constraint pk_vaga primary key(idVaga)
+--)
+--/**/
+--create table VagaUser(
+--idVagaSolicitada int identity(1,1),
+--idUser int,
+--idVaga int,
+--placaCarro char(8),
+--diaEntrada date,
+--diaSaida date
+--constraint pk_idVagaSolicitada primary key(idVagaSolicitada),
+--constraint fk_idUser foreign key (idUser) references Usuario(idUser),
+--constraint fk_idUVaga foreign key (idVaga) references Vaga(idVaga)
+--)

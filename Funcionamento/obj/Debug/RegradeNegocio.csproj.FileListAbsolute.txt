@@ -1,0 +1,12 @@
+C:\Users\Guilherme.gckrohling\Downloads\slnEstacionamentoPrjIntegrador\slnEstacionamentoPrjIntegrador\Funcionamento\bin\Debug\Funcionamento.dll
+C:\Users\Guilherme.gckrohling\Downloads\slnEstacionamentoPrjIntegrador\slnEstacionamentoPrjIntegrador\Funcionamento\bin\Debug\Funcionamento.pdb
+C:\Users\Guilherme.gckrohling\Downloads\slnEstacionamentoPrjIntegrador\slnEstacionamentoPrjIntegrador\Funcionamento\bin\Debug\Banco.dll
+C:\Users\Guilherme.gckrohling\Downloads\slnEstacionamentoPrjIntegrador\slnEstacionamentoPrjIntegrador\Funcionamento\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Guilherme.gckrohling\Downloads\slnEstacionamentoPrjIntegrador\slnEstacionamentoPrjIntegrador\Funcionamento\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Guilherme.gckrohling\Downloads\slnEstacionamentoPrjIntegrador\slnEstacionamentoPrjIntegrador\Funcionamento\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Guilherme.gckrohling\Downloads\slnEstacionamentoPrjIntegrador\slnEstacionamentoPrjIntegrador\Funcionamento\bin\Debug\Banco.pdb
+C:\Users\Guilherme.gckrohling\Downloads\slnEstacionamentoPrjIntegrador\slnEstacionamentoPrjIntegrador\Funcionamento\obj\Debug\RegradeNegocio.csproj.AssemblyReference.cache
+C:\Users\Guilherme.gckrohling\Downloads\slnEstacionamentoPrjIntegrador\slnEstacionamentoPrjIntegrador\Funcionamento\obj\Debug\RegradeNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme.gckrohling\Downloads\slnEstacionamentoPrjIntegrador\slnEstacionamentoPrjIntegrador\Funcionamento\obj\Debug\RegradeNegocio.csproj.CopyComplete
+C:\Users\Guilherme.gckrohling\Downloads\slnEstacionamentoPrjIntegrador\slnEstacionamentoPrjIntegrador\Funcionamento\obj\Debug\Funcionamento.dll
+C:\Users\Guilherme.gckrohling\Downloads\slnEstacionamentoPrjIntegrador\slnEstacionamentoPrjIntegrador\Funcionamento\obj\Debug\Funcionamento.pdb
